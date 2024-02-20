@@ -16,8 +16,6 @@ Gourmet Panda is a 2D RPG that allows player to take on the role of a panda chef
 ![image](https://github.com/reigndeity/Gourmet-Panda/assets/158044567/e3295d4f-ea36-4d64-acdb-8a7474b92e1b)
 
 
-
-
 # Download Link
 <br>Windows: [**Windows - Gourmet Panda**](https://drive.google.com/file/d/1q65MioF7LgSrN1KDpPYmwtMkPdHh3scc/view?usp=sharing)
 
@@ -38,5 +36,6 @@ Gourmet Panda is a 2D RPG that allows player to take on the role of a panda chef
 - Programmer
 - Game Producer
 - Game Design
+- UI and Tile Artist
 
-In this project, I did most of the coding and half of the game design document.
+In this project, I did most of the coding and half of the game design document. It's worth noting that I also drew for the first time because I usually don't lol.
